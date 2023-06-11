@@ -11,7 +11,7 @@ for complete list of functionality scroll down to complete list section
 If you need some feature or facing bugs please let us know here https://github.com/sumitmatta998/mtm_
 
 ### How to use [beta version]
-1. Go to release section and download latest release and 
+1. Go to ![release section](https://github.com/sumitmatta998/mtm_/releases) and download latest release and 
 2. Go to chrome://extensions
 3. Enable developer mode -> enable extension (Top right)
 4. Load Unpacked -> select release folder created in step 1
